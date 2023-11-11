@@ -2,12 +2,12 @@
 
 An example of base Kaggle challenge solution with top 3% leaderboard result.
 
-## Link to challenge:
+### Link to challenge:
 https://www.kaggle.com/competitions/spaceship-titanic/
 
-## Dataset
-https://github.com/rsyakovlev/spaceship_titanic/blob/main/train.csv <br>
-https://github.com/rsyakovlev/spaceship_titanic/blob/main/test.csv <br>
+### Dataset
+./train.csv <br>
+./test.csv <br>
 
-## Solution:
-https://github.com/rsyakovlev/spaceship_titanic/blob/main/spaceship_titanic.ipynb
+### Solution:
+./spaceship_titanic.ipynb
